@@ -2,9 +2,9 @@
 
 if (a % 2 == 0)
 {
-    Console.WriteLine("ДА");
+    Console.WriteLine("ДА,чётное");
 }
 else
 {
-    Console.WriteLine("НЕТ");
+    Console.WriteLine("НЕТ, нечётное");
 }
